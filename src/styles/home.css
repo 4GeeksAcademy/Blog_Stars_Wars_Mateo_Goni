@@ -1,0 +1,26 @@
+body{
+    background: #55f;
+}
+img{
+    max-width: 350px;
+    max-height: 280px;
+}
+.carrousel{
+    overflow-x:scroll;
+    display: flex;
+}
+
+.logo{
+    width: 50px;
+    margin-left: 20px;
+}
+
+
+.firstImg{
+max-height: 280px;
+}
+
+* {
+    scrollbar-width: thin; 
+    scrollbar-color: #bd1515 #f1f1f1; 
+}
